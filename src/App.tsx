@@ -7,6 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>Commit 1</p>
+        <p>Commit 2</p>
       </header>
     </div>
   );
